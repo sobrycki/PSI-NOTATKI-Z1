@@ -1,0 +1,25 @@
+a) Napisz z pamięci (nie patrząc na materiały) wszystkie etapy Cyklu życia systemu informatycznego.
+Następnie wróć do materiałów i sprawdź, czego brakuje i dopisz to.
+
+1) Planowanie
+
+2) Analiza wymagań
+
+3) Projektowanie
+
+4) Kodzenie
+
+5) testowanie
+
+6) Wdrożenie
+
+7) Utrzymanie
+
+8) wycofanie
+
+b) odpowiedz na pytania:
+- Czy cykl życia procesu analizy danych w data science jest podobny 
+do etapów Cyklu życia systemu informatycznego? 
+Do pewnego momentu tak.
+- Czy w obu cyklach życia kolejność etapów jest (ogólnie) analogiczna?
+Tak, najpierw chcemy, upewnić się, że to co robimy ma sens, zastanowić się jak, a dopiero na koniec to zrobić
