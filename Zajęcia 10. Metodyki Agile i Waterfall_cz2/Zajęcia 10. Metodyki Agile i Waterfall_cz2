@@ -1,0 +1,13 @@
+3. Przeczytaj ze zrozumieniem Metodyki-Agile-Waterfall-cz2.pdf
+
+a) Otwórz swój plik "Notatki z zajęć", napisz "Zajęcia 10. Metodyki Agile i Waterfall-cz2".
+Następnie krótko rozpisz tablicę Kanban dla prostego projektu dotyczącego Topic modelingu (składającego się z zadań ponumerowanych w pliku: 
+"Zaj-10.BoW-Przestrzen-wektorowa-LDA-rozne-k-Plik-CSV.html")
+=> załóżmy, że są już wykonane zadania 0-2 i aktualnie jest realizowane zadanie "3. Eksploracyjna analiza danych"
+_______________________________________________________________________________________________________________________________________________________________________+
+| Do zrobienia                                               |         W trakcie:                         |                  zrobione:                                 |
++------------------------------------------------------------+--------------------------------------------+------------------------------------------------------------+
+|4. Inżynieria cech w modelu Bag of Words:                   |     3. Eksploracyjna analiza danych        |                 2. Zliczanie częstości słów                |
+|Reprezentacja słów i dokumentów w przestrzeni wektorowej    |                                            |                 1. Przetwarzanie i oczyszczanie tekstu     |
+|                                                            |                                            |                 0. Funkcja top-terms-by-topic-LDA          |
++------------------------------------------------------------+--------------------------------------------+------------------------------------------------------------+
