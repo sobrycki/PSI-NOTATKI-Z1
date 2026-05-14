@@ -1,1 +1,7 @@
+Gdzie stosować TF-IDF:
+Klastrowanie k-means: Wskazane. TF-IDF pozwala wyeliminować wpływ słów powszechnych (szumu) i normalizuje długość dokumentów. Dzięki temu klastry tworzone są na podstawie istotnych słów kluczowych, a nie częstotliwości występowania spójników czy zaimków.
+Asocjacje (korelacja Pearsona): Wskazane. Przekształcenie surowych liczników na wagi istotności pozwala uniknąć pozornych korelacji wynikających jedynie z dużej objętości tekstów. Umożliwia to badanie realnych zależności merytorycznych między terminami.
+Gdzie unikać TF-IDF:
+Analiza sentymentu (metoda słownikowa): Niewskazane. Słowniki opierają się na obecności konkretnych słów nacechowanych emocjonalnie. TF-IDF mógłby drastycznie obniżyć wagę kluczowych, lecz często występujących słów (np. „dobry”, „zły”), co zniekształciłoby końcowy wynik oceny emocjonalnej.
+Topic modeling (metoda LDA): Niewskazane. Algorytm LDA jest modelem probabilistycznym, który ze względów matematycznych wymaga na wejściu surowych zliczeń słów (liczb całkowitych). Zastosowanie wag TF-IDF narusza założenia statystyczne modelu i prowadzi do uzyskania nieczytelnych tematów.
 
